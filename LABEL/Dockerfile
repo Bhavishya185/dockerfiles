@@ -1,5 +1,5 @@
 FROM almalinux:9
 LABEL author="bhavishya" \
-      company= "joindevops" \
+      company= "bhavishya185" \
       topic="dockerfiles" \
       duration="2hrs" 
